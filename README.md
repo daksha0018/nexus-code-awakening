@@ -30,3 +30,6 @@ python main.py
 - AI mentor for personalized coding guidance
 - Skill tracking and progress analysis
 - Mock technical interviews
+
+## Project Status
+NEXUS is currently under development.
