@@ -33,3 +33,7 @@ python main.py
 
 ## Project Status
 NEXUS is currently under development.
+
+PS C:\Users\HAI\nexus-code-awakening> git branch
+* feature-aria-mentor
+  main
