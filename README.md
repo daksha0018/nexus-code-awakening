@@ -23,3 +23,5 @@ Run the following command:
 
 ```bash
 python main.py
+## Latest Update
+README updated for Git workflow demonstration.
