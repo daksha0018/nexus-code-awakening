@@ -25,3 +25,4 @@ Run the following command:
 python main.py
 ## Latest Update
 README updated for Git workflow demonstration.
+GitHub workflow demonstration update.
