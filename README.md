@@ -32,7 +32,7 @@ python main.py
 - Mock technical interviews
 
 ## Project Status
-NEXUS is currently under development.
+NEXUS is currently in active development.
 
 PS C:\Users\HAI\nexus-code-awakening> git branch
 * feature-aria-mentor
