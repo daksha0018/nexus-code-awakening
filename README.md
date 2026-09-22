@@ -24,3 +24,9 @@ Run the following command:
 
 ```bash
 python main.py
+
+## Future Enhancements
+
+- AI mentor for personalized coding guidance
+- Skill tracking and progress analysis
+- Mock technical interviews
