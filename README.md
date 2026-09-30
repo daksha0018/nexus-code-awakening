@@ -16,6 +16,7 @@ practice programming and technical interview concepts.
 - Python
 - Git
 - GitHub
+- AI Mentor
 
 ## How to Run
 
