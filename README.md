@@ -14,8 +14,11 @@ practice programming and technical interview concepts.
 ## Technologies Used
 
 - Python
+- Git
+- GitHub Repository
+- GitHub Platform
+- GitHub
 - AI Mentor
-
 ## How to Run
 
 Run the following command:
