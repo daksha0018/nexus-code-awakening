@@ -15,7 +15,7 @@ practice programming and technical interview concepts.
 
 - Python
 - Git
-- GitHub
+- GitHub Platform
 
 ## How to Run
 
